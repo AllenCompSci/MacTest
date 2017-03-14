@@ -6,6 +6,7 @@ import java.util.ArrayList;
  * Created by theshrewedshrew on 3/13/17.
  */
 public class Board {
+    boolean listJump[] = {false, false, false, false, false, false};
     boolean boardset [][] = {
             {true, false, false, false, false},
             {true,  true, false, false, false},
@@ -61,21 +62,75 @@ public class Board {
         W = initialW; // X
         H = initialH; // Y
         empty[H][W] = true;
+        setListJump();
+    }
+    public Board(boolean duplicate[][], int fromX, int fromY, int toX, int toY){
+        for(int i = 0; i < HEIGHT; i++)
+            for(int j = 0; j < WIDTH; j++)
+                empty[i][j] = duplicate[i][j];
+
+        empty[fromX][fromY] = true;
+        int dX = (toX-fromX)/2;
+        int dY = (toY-fromY)/2;
+        empty[dX][dY] = true;
+        empty[toX][toY] = false;
+        setListJump();
+
 
     }
+    public boolean [][] getEmpty(){return empty;}
+    public boolean [] getListJump(){return listJump;}
+    public void setListJump(){
+        for(int i = 0; i  < 6; i ++)
+            listJump[i] = false;
+    }
+    
     public boolean canJump(int pegH, int pegW){
-
+        return peg0(pegH, pegW) || peg1(pegH, pegW) || peg2(pegH, pegW) || peg3(pegH, pegW) || peg4(pegH, pegW) || peg5(pegH, pegW);
     }
     public boolean peg0(int pegH, int pegW){
-        if(pegH > 1)
-            return boardset[pegH-2][pegW] && empty[pegH-2][pegW];
+        if(peg(pegH, pegW, -1, 0))
+            return listJump[0] = true;
         return false;
     }
     public boolean peg1(int pegH, int pegW){
-        if(pegW < 3){
-            return boardset[pegH][pegH+2] && empty[pegH][pegW+2];
+        if(peg(pegH, pegW, 0, 1))
+            return listJump[1] = true;
+        return false;
+    }
+    public boolean peg2(int pegH, int pegW){
+        if( peg(pegH, pegW, 1,1))
+            return listJump[2] = true;
+        return false;
+    }
+    public boolean peg3(int pegH, int pegW){
+        if(peg(pegH, pegW, 1,0))
+            return listJump[3] = true;
+        return false;
+    }
+    public boolean peg4(int pegH, int pegW){
+        if( peg(pegH, pegW, 0, 1))
+            return listJump[4] = true;
+        return false;
+    }
+    public boolean peg5(int pegH, int pegW){
+        if( peg(pegH, pegW, -1,-1))
+            return listJump[5] = true;
+        return false;
+    }
+    public boolean exists(int h,  int h2, int w , int w2){
+        if((h + h2) >= 0 && (h + h2) <= HEIGHT){
+            if((w + w2) >= 0 && (w+w2) <= WIDTH) {
+                return true;
+            }
         }
         return false;
     }
+    public boolean peg(int pegH, int pegW, int dH, int dW){
+        if(exists(pegH, dH*2, pegW, dW*2))
+            if(boardset[pegH+dH][pegW+dW] && !empty[pegH+dH][pegW+dW])
+                return boardset[pegH+dH*2][pegW+dW*2] && empty[pegH+dH*2][pegW+dW*2];
+        return false;
+        }
 
 }
