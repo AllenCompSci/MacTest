@@ -1,0 +1,3335 @@
+[
+     *      
+    o o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   o * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * * *    
+  * o o *   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o * o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o o * * o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ * * o * o  
+
+
+     *      
+    o o     
+   * o o    
+  * * * *   
+ * * * * o  
+
+
+     *      
+    * o     
+   * * o    
+  * * o *   
+ * * * * o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * * * * o  
+
+
+     *      
+    * *     
+   * * o    
+  * * o *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * o * *  
+
+, 
+     *      
+    o o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   o * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * * *    
+  * o o *   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o * o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o o * * o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ * * o * o  
+
+
+     *      
+    o o     
+   * o o    
+  * * * *   
+ * * * * o  
+
+
+     *      
+    o *     
+   * o *    
+  * * * o   
+ * * * * o  
+
+
+     *      
+    o *     
+   * o o    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    o *     
+   o * *    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  o * * *   
+ * * * * *  
+
+, 
+     *      
+    o o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   o * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * * *    
+  * o o *   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o * o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o o * * o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ * * o * o  
+
+
+     *      
+    o o     
+   * o o    
+  * * * *   
+ * * * * o  
+
+
+     *      
+    o *     
+   * o *    
+  * * * o   
+ * * * * o  
+
+
+     *      
+    o *     
+   * o o    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    o *     
+   o * *    
+  * * * *   
+ * * * * *  
+
+
+     o      
+    * *     
+   * * *    
+  * * * *   
+ * * * * *  
+
+, 
+     *      
+    o o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   o * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * * *    
+  * o o *   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * o * *   
+ o o o * o  
+
+
+     *      
+    o o     
+   * o *    
+  * o * *   
+ o * * o o  
+
+
+     *      
+    o o     
+   * o *    
+  * o * *   
+ o * o * *  
+
+
+     *      
+    o o     
+   o o *    
+  * * * *   
+ o * * * *  
+
+
+     *      
+    o *     
+   o * *    
+  * o * *   
+ o * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  o o * *   
+ o * * * *  
+
+
+     *      
+    * *     
+   o * *    
+  * o * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * o * *  
+
+, 
+     *      
+    o o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   o * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   o * o    
+  * * o o   
+ o o * o o  
+
+
+     *      
+    * *     
+   * * o    
+  o * o o   
+ o o * o o  
+
+
+     *      
+    * *     
+   o * o    
+  * * o o   
+ * o * o o  
+
+
+     *      
+    * *     
+   o * o    
+  * * o o   
+ * o o * *  
+
+
+     *      
+    * *     
+   o * o    
+  * * o o   
+ * * * o *  
+
+
+     *      
+    * *     
+   o o o    
+  * * * o   
+ * * * * *  
+
+
+     *      
+    * o     
+   o o *    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * o     
+   * * o    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * o   
+ * * * * *  
+
+, 
+     o      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o * * o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o * o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o * o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * * *    
+  * o * *   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * * *   
+ o * o o o  
+
+
+     *      
+    * o     
+   * * *    
+  * * o *   
+ o * o o o  
+
+
+     *      
+    * o     
+   * * *    
+  * * o *   
+ o o * * o  
+
+
+     *      
+    * o     
+   * * *    
+  * * o *   
+ * * o * o  
+
+
+     *      
+    * o     
+   * * o    
+  * * * *   
+ * * * * o  
+
+
+     *      
+    * *     
+   * * *    
+  * * * o   
+ * * * * o  
+
+
+     *      
+    * *     
+   * * o    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   o * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   * * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   * * *    
+  o o o *   
+ o o o o o  
+
+
+     *      
+    * o     
+   o * *    
+  * o o *   
+ * o o o o  
+
+
+     *      
+    * o     
+   o o *    
+  * * o *   
+ * * o o o  
+
+
+     *      
+    * o     
+   * * o    
+  * * o *   
+ * * o o o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * * o o o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * o * * o  
+
+
+     *      
+    * *     
+   * * o    
+  * * o *   
+ * o * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * o o * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * * o *  
+
+, 
+     o      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   o * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   * * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   * * *    
+  o o o *   
+ o o o o o  
+
+
+     *      
+    * o     
+   o * *    
+  * o o *   
+ * o o o o  
+
+
+     *      
+    * o     
+   o o *    
+  * * o *   
+ * * o o o  
+
+
+     *      
+    * o     
+   * * o    
+  * * o *   
+ * * o o o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * * o o o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * o * * o  
+
+
+     *      
+    * *     
+   * * o    
+  * * o *   
+ * o * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * o o * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ o * * * *  
+
+, 
+     o      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   o * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o * *    
+  * o o *   
+ o o o o o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o *   
+ o * o o o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o *   
+ o o * * o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o *   
+ * * o * o  
+
+
+     *      
+    * o     
+   * o *    
+  o * o *   
+ * * o * o  
+
+
+     *      
+    * o     
+   * o o    
+  o * * *   
+ * * * * o  
+
+
+     *      
+    * *     
+   * o *    
+  o * * o   
+ * * * * o  
+
+
+     *      
+    * *     
+   * o o    
+  o * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   o * *    
+  o * * *   
+ * * * * *  
+
+
+     *      
+    o *     
+   * * *    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   o o *    
+  * * o o   
+ o * o o o  
+
+
+     o      
+    o o     
+   o o *    
+  * * o o   
+ o o * * o  
+
+
+     o      
+    o o     
+   o o *    
+  * * o o   
+ * * o * o  
+
+
+     o      
+    * o     
+   * o *    
+  o * o o   
+ * * o * o  
+
+
+     o      
+    * o     
+   * o o    
+  o * o *   
+ * * o * *  
+
+
+     o      
+    * *     
+   * o *    
+  o * o o   
+ * * o * *  
+
+
+     o      
+    * *     
+   * o *    
+  o o * *   
+ * * o * *  
+
+
+     o      
+    * *     
+   o o *    
+  o * * *   
+ * * * * *  
+
+
+     o      
+    o *     
+   * o *    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   o o *    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * o    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * *     
+   o o *    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * *     
+   * * o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * * *    
+  o o o *   
+ o o o o o  
+
+
+     *      
+    * *     
+   * * o    
+  o o o *   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o * o *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * * o    
+  * * o *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * * o    
+  * * o *   
+ o o o * *  
+
+
+     *      
+    o *     
+   * * o    
+  * * o *   
+ o * * o *  
+
+
+     *      
+    o *     
+   * o o    
+  * * * *   
+ o * * * *  
+
+
+     *      
+    o *     
+   o * *    
+  * * * *   
+ o * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  o * * *   
+ o * * * *  
+
+
+     *      
+    * *     
+   o * *    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * *     
+   o o *    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o *     
+   * o *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o o *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o o o    
+  * o * o   
+ o o * o o  
+
+
+     *      
+    * *     
+   o o o    
+  * o * o   
+ * * o o o  
+
+
+     *      
+    * *     
+   o o o    
+  * o * o   
+ * o * * o  
+
+
+     *      
+    * *     
+   * o o    
+  * * * o   
+ * o o * o  
+
+
+     *      
+    * o     
+   * o *    
+  * * * *   
+ * o o * o  
+
+
+     *      
+    * o     
+   * o *    
+  * * * *   
+ * * * o o  
+
+
+     *      
+    * *     
+   * * *    
+  * o * *   
+ * * * o o  
+
+
+     *      
+    * *     
+   * * *    
+  * o * *   
+ * * o * *  
+
+
+     *      
+    * *     
+   o * *    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * *     
+   o o *    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o *     
+   * o *    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o *     
+   * o o    
+  * o * o   
+ o o * o o  
+
+
+     o      
+    o o     
+   * o *    
+  * o * *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o o o * *  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o * * o *  
+
+
+     *      
+    o *     
+   o * *    
+  * o * *   
+ o * * o *  
+
+
+     *      
+    * *     
+   * * *    
+  o o * *   
+ o * * o *  
+
+
+     *      
+    * *     
+   o * *    
+  * o * *   
+ * * * o *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * o o *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * * * o  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * *     
+   o o *    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o *     
+   * o *    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o *     
+   * o o    
+  * o * o   
+ o o * o o  
+
+
+     o      
+    o o     
+   * o *    
+  * o * *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o o o * *  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o * * o *  
+
+
+     *      
+    o *     
+   o * *    
+  * o * *   
+ o * * o *  
+
+
+     *      
+    * *     
+   * * *    
+  o o * *   
+ o * * o *  
+
+
+     *      
+    * *     
+   o * *    
+  * o * *   
+ * * * o *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * o o *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * o * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   * * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o * *    
+  * o o o   
+ * o o o o  
+
+
+     *      
+    * o     
+   o o *    
+  * * o o   
+ * * o o o  
+
+
+     *      
+    * *     
+   o * *    
+  * o o o   
+ * * o o o  
+
+
+     *      
+    * *     
+   o * *    
+  * o o o   
+ * o * * o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * o o * o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * * * o o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * * o * *  
+
+
+     *      
+    * *     
+   * * o    
+  * * * o   
+ * * * * *  
+
+
+     *      
+    * o     
+   * * *    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o o   
+ o * o o o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o o   
+ o o * * o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o o   
+ * * o * o  
+
+
+     *      
+    * o     
+   * o *    
+  o * o o   
+ * * o * o  
+
+
+     *      
+    * o     
+   * o o    
+  o * o *   
+ * * o * *  
+
+
+     *      
+    * *     
+   * o *    
+  o * o o   
+ * * o * *  
+
+
+     *      
+    * *     
+   * o *    
+  o o * *   
+ * * o * *  
+
+
+     *      
+    * *     
+   o o *    
+  o * * *   
+ * * * * *  
+
+
+     *      
+    o *     
+   * o *    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * o *   
+ * * * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o * o    
+  * o o *   
+ o o o o *  
+
+
+     *      
+    o *     
+   o * *    
+  * o o o   
+ o o o o *  
+
+
+     *      
+    o *     
+   o * o    
+  * o * o   
+ o o * o *  
+
+
+     *      
+    o *     
+   o * o    
+  * o * o   
+ * * o o *  
+
+
+     *      
+    * *     
+   * * o    
+  o o * o   
+ * * o o *  
+
+
+     *      
+    * *     
+   * * o    
+  o o * o   
+ * o * * *  
+
+
+     *      
+    * o     
+   * * *    
+  o o * *   
+ * o * * *  
+
+
+     *      
+    * o     
+   * o *    
+  o * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  o o * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * o *   
+ * * * * *  
+
+]
+17
+[
+     *      
+    o o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   o * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * * *    
+  * o o *   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o * o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o o * * o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ * * o * o  
+
+
+     *      
+    o o     
+   * o o    
+  * * * *   
+ * * * * o  
+
+
+     *      
+    * o     
+   * * o    
+  * * o *   
+ * * * * o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * * * * o  
+
+
+     *      
+    * *     
+   * * o    
+  * * o *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * o * *  
+
+, 
+     *      
+    o o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   o * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * * *    
+  * o o *   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o * o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o o * * o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ * * o * o  
+
+
+     *      
+    o o     
+   * o o    
+  * * * *   
+ * * * * o  
+
+
+     *      
+    o *     
+   * o *    
+  * * * o   
+ * * * * o  
+
+
+     *      
+    o *     
+   * o o    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    o *     
+   o * *    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  o * * *   
+ * * * * *  
+
+, 
+     *      
+    o o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   o * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * * *    
+  * o o *   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o * o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ o o * * o  
+
+
+     *      
+    o o     
+   * o *    
+  * * o *   
+ * * o * o  
+
+
+     *      
+    o o     
+   * o o    
+  * * * *   
+ * * * * o  
+
+
+     *      
+    o *     
+   * o *    
+  * * * o   
+ * * * * o  
+
+
+     *      
+    o *     
+   * o o    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    o *     
+   o * *    
+  * * * *   
+ * * * * *  
+
+
+     o      
+    * *     
+   * * *    
+  * * * *   
+ * * * * *  
+
+, 
+     *      
+    o o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   o * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * * *    
+  * o o *   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * o * *   
+ o o o * o  
+
+
+     *      
+    o o     
+   * o *    
+  * o * *   
+ o * * o o  
+
+
+     *      
+    o o     
+   * o *    
+  * o * *   
+ o * o * *  
+
+
+     *      
+    o o     
+   o o *    
+  * * * *   
+ o * * * *  
+
+
+     *      
+    o *     
+   o * *    
+  * o * *   
+ o * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  o o * *   
+ o * * * *  
+
+
+     *      
+    * *     
+   o * *    
+  * o * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * o * *  
+
+, 
+     *      
+    o o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   o * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   o * o    
+  * * o o   
+ o o * o o  
+
+
+     *      
+    * *     
+   * * o    
+  o * o o   
+ o o * o o  
+
+
+     *      
+    * *     
+   o * o    
+  * * o o   
+ * o * o o  
+
+
+     *      
+    * *     
+   o * o    
+  * * o o   
+ * o o * *  
+
+
+     *      
+    * *     
+   o * o    
+  * * o o   
+ * * * o *  
+
+
+     *      
+    * *     
+   o o o    
+  * * * o   
+ * * * * *  
+
+
+     *      
+    * o     
+   o o *    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * o     
+   * * o    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * o   
+ * * * * *  
+
+, 
+     o      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o * * o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o o * o   
+ o o o o o  
+
+
+     *      
+    o *     
+   * * o    
+  * o * o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * * *    
+  * o * *   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o *    
+  * * * *   
+ o * o o o  
+
+
+     *      
+    * o     
+   * * *    
+  * * o *   
+ o * o o o  
+
+
+     *      
+    * o     
+   * * *    
+  * * o *   
+ o o * * o  
+
+
+     *      
+    * o     
+   * * *    
+  * * o *   
+ * * o * o  
+
+
+     *      
+    * o     
+   * * o    
+  * * * *   
+ * * * * o  
+
+
+     *      
+    * *     
+   * * *    
+  * * * o   
+ * * * * o  
+
+
+     *      
+    * *     
+   * * o    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   o * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   * * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   * * *    
+  o o o *   
+ o o o o o  
+
+
+     *      
+    * o     
+   o * *    
+  * o o *   
+ * o o o o  
+
+
+     *      
+    * o     
+   o o *    
+  * * o *   
+ * * o o o  
+
+
+     *      
+    * o     
+   * * o    
+  * * o *   
+ * * o o o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * * o o o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * o * * o  
+
+
+     *      
+    * *     
+   * * o    
+  * * o *   
+ * o * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * o o * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * * o *  
+
+, 
+     o      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   o * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   * * o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   * * *    
+  o o o *   
+ o o o o o  
+
+
+     *      
+    * o     
+   o * *    
+  * o o *   
+ * o o o o  
+
+
+     *      
+    * o     
+   o o *    
+  * * o *   
+ * * o o o  
+
+
+     *      
+    * o     
+   * * o    
+  * * o *   
+ * * o o o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * * o o o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * o * * o  
+
+
+     *      
+    * *     
+   * * o    
+  * * o *   
+ * o * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * o o * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ o * * * *  
+
+, 
+     o      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o *     
+   o * o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o * *    
+  * o o *   
+ o o o o o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o *   
+ o * o o o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o *   
+ o o * * o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o *   
+ * * o * o  
+
+
+     *      
+    * o     
+   * o *    
+  o * o *   
+ * * o * o  
+
+
+     *      
+    * o     
+   * o o    
+  o * * *   
+ * * * * o  
+
+
+     *      
+    * *     
+   * o *    
+  o * * o   
+ * * * * o  
+
+
+     *      
+    * *     
+   * o o    
+  o * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   o * *    
+  o * * *   
+ * * * * *  
+
+
+     *      
+    o *     
+   * * *    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o o     
+   o o *    
+  * * o o   
+ o * o o o  
+
+
+     o      
+    o o     
+   o o *    
+  * * o o   
+ o o * * o  
+
+
+     o      
+    o o     
+   o o *    
+  * * o o   
+ * * o * o  
+
+
+     o      
+    * o     
+   * o *    
+  o * o o   
+ * * o * o  
+
+
+     o      
+    * o     
+   * o o    
+  o * o *   
+ * * o * *  
+
+
+     o      
+    * *     
+   * o *    
+  o * o o   
+ * * o * *  
+
+
+     o      
+    * *     
+   * o *    
+  o o * *   
+ * * o * *  
+
+
+     o      
+    * *     
+   o o *    
+  o * * *   
+ * * * * *  
+
+
+     o      
+    o *     
+   * o *    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   o o *    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * o    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * *     
+   o o *    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * *     
+   * * o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * o     
+   * * *    
+  o o o *   
+ o o o o o  
+
+
+     *      
+    * *     
+   * * o    
+  o o o *   
+ o o o o o  
+
+
+     *      
+    * *     
+   o * o    
+  o * o *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * * o    
+  * * o *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * * o    
+  * * o *   
+ o o o * *  
+
+
+     *      
+    o *     
+   * * o    
+  * * o *   
+ o * * o *  
+
+
+     *      
+    o *     
+   * o o    
+  * * * *   
+ o * * * *  
+
+
+     *      
+    o *     
+   o * *    
+  * * * *   
+ o * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  o * * *   
+ o * * * *  
+
+
+     *      
+    * *     
+   o * *    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * *     
+   o o *    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o *     
+   * o *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o o *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * *     
+   o o o    
+  * o * o   
+ o o * o o  
+
+
+     *      
+    * *     
+   o o o    
+  * o * o   
+ * * o o o  
+
+
+     *      
+    * *     
+   o o o    
+  * o * o   
+ * o * * o  
+
+
+     *      
+    * *     
+   * o o    
+  * * * o   
+ * o o * o  
+
+
+     *      
+    * o     
+   * o *    
+  * * * *   
+ * o o * o  
+
+
+     *      
+    * o     
+   * o *    
+  * * * *   
+ * * * o o  
+
+
+     *      
+    * *     
+   * * *    
+  * o * *   
+ * * * o o  
+
+
+     *      
+    * *     
+   * * *    
+  * o * *   
+ * * o * *  
+
+
+     *      
+    * *     
+   o * *    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * *     
+   o o *    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o *     
+   * o *    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o *     
+   * o o    
+  * o * o   
+ o o * o o  
+
+
+     o      
+    o o     
+   * o *    
+  * o * *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o o o * *  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o * * o *  
+
+
+     *      
+    o *     
+   o * *    
+  * o * *   
+ o * * o *  
+
+
+     *      
+    * *     
+   * * *    
+  o o * *   
+ o * * o *  
+
+
+     *      
+    * *     
+   o * *    
+  * o * *   
+ * * * o *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * o o *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * * * o  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    * *     
+   o o *    
+  o o o o   
+ o o o o o  
+
+
+     o      
+    o *     
+   * o *    
+  * o o o   
+ o o o o o  
+
+
+     o      
+    o *     
+   * o o    
+  * o * o   
+ o o * o o  
+
+
+     o      
+    o o     
+   * o *    
+  * o * *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o o * o o  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o o o * *  
+
+
+     *      
+    o *     
+   * o o    
+  * o * *   
+ o * * o *  
+
+
+     *      
+    o *     
+   o * *    
+  * o * *   
+ o * * o *  
+
+
+     *      
+    * *     
+   * * *    
+  o o * *   
+ o * * o *  
+
+
+     *      
+    * *     
+   o * *    
+  * o * *   
+ * * * o *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * o o *  
+
+
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * o * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   * * *    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o * *    
+  * o o o   
+ * o o o o  
+
+
+     *      
+    * o     
+   o o *    
+  * * o o   
+ * * o o o  
+
+
+     *      
+    * *     
+   o * *    
+  * o o o   
+ * * o o o  
+
+
+     *      
+    * *     
+   o * *    
+  * o o o   
+ * o * * o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * o o * o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * * * o o  
+
+
+     *      
+    * *     
+   * * *    
+  * * o o   
+ * * o * *  
+
+
+     *      
+    * *     
+   * * o    
+  * * * o   
+ * * * * *  
+
+
+     *      
+    * o     
+   * * *    
+  * * * *   
+ * * * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o o   
+ o * o o o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o o   
+ o o * * o  
+
+
+     *      
+    o o     
+   o o *    
+  * * o o   
+ * * o * o  
+
+
+     *      
+    * o     
+   * o *    
+  o * o o   
+ * * o * o  
+
+
+     *      
+    * o     
+   * o o    
+  o * o *   
+ * * o * *  
+
+
+     *      
+    * *     
+   * o *    
+  o * o o   
+ * * o * *  
+
+
+     *      
+    * *     
+   * o *    
+  o o * *   
+ * * o * *  
+
+
+     *      
+    * *     
+   o o *    
+  o * * *   
+ * * * * *  
+
+
+     *      
+    o *     
+   * o *    
+  * * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * o *   
+ * * * * *  
+
+, 
+     o      
+    o o     
+   * o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    * o     
+   o o o    
+  o o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   * o o    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o * *    
+  * o o o   
+ o o o o o  
+
+
+     *      
+    o o     
+   o * o    
+  * o o *   
+ o o o o *  
+
+
+     *      
+    o *     
+   o * *    
+  * o o o   
+ o o o o *  
+
+
+     *      
+    o *     
+   o * o    
+  * o * o   
+ o o * o *  
+
+
+     *      
+    o *     
+   o * o    
+  * o * o   
+ * * o o *  
+
+
+     *      
+    * *     
+   * * o    
+  o o * o   
+ * * o o *  
+
+
+     *      
+    * *     
+   * * o    
+  o o * o   
+ * o * * *  
+
+
+     *      
+    * o     
+   * * *    
+  o o * *   
+ * o * * *  
+
+
+     *      
+    * o     
+   * o *    
+  o * * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  o o * *   
+ * * * * *  
+
+
+     *      
+    * *     
+   * * *    
+  * * o *   
+ * * * * *  
+
+]
