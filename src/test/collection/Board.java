@@ -1,5 +1,7 @@
 package test.collection;
 
+import com.sun.deploy.util.StringUtils;
+
 import java.util.ArrayList;
 
 /**
@@ -21,6 +23,7 @@ public class Board {
             {false, false, false, false, false},
             {false, false, false, false, false}
     };
+    int pegsLeft;
     /**
      *
      *      0    1    2    3    4
@@ -54,6 +57,8 @@ public class Board {
      *   5 - [H-1][W-1] -> [H-2][W-2]
      *   This goes through the possible checks, so we only have to check these when they are within bounds to find holes.
      *
+     *
+     *
      */
     private int HEIGHT = 5;
     private int WIDTH = 5;
@@ -62,21 +67,41 @@ public class Board {
         W = initialW; // X
         H = initialH; // Y
         empty[H][W] = true;
+        pegsLeft = 14;
         setListJump();
     }
     public Board(boolean duplicate[][], int fromX, int fromY, int toX, int toY){
+        pegsLeft = 15;
         for(int i = 0; i < HEIGHT; i++)
-            for(int j = 0; j < WIDTH; j++)
+            for(int j = 0; j < WIDTH; j++) {
                 empty[i][j] = duplicate[i][j];
+                if(empty[i][j])
+                    pegsLeft--;
+            }
 
         empty[fromX][fromY] = true;
+        //System.out.println("FX : " + fromX + " FY : " + fromY);
+        // This peg is going to move not disappear
         int dX = (toX-fromX)/2;
         int dY = (toY-fromY)/2;
-        empty[dX][dY] = true;
-        empty[toX][toY] = false;
+        //System.out.println("tX : " + toX + "tY : " + toY);
+        //System.out.println("dX : " + dX + "dY : " + dY);
+        empty[fromX + dX][fromY + dY] = true;
+        pegsLeft--; // This peg is going to disappear
+        empty[toX][toY] = false; // Replaces the peg that jumps
         setListJump();
 
 
+    }
+    public Board(boolean duplicate[][]){
+        pegsLeft = 15;
+        for(int i = 0; i < HEIGHT; i++)
+            for(int j = 0; j < WIDTH; j++) {
+                empty[i][j] = duplicate[i][j];
+                if(empty[i][j])
+                    pegsLeft--;
+            }
+        setListJump();
     }
     public boolean [][] getEmpty(){return empty;}
     public boolean [] getListJump(){return listJump;}
@@ -84,8 +109,9 @@ public class Board {
         for(int i = 0; i  < 6; i ++)
             listJump[i] = false;
     }
-    
     public boolean canJump(int pegH, int pegW){
+        if(empty[pegH][pegW])
+            return false;
         return peg0(pegH, pegW) || peg1(pegH, pegW) || peg2(pegH, pegW) || peg3(pegH, pegW) || peg4(pegH, pegW) || peg5(pegH, pegW);
     }
     public boolean peg0(int pegH, int pegW){
@@ -109,7 +135,7 @@ public class Board {
         return false;
     }
     public boolean peg4(int pegH, int pegW){
-        if( peg(pegH, pegW, 0, 1))
+        if( peg(pegH, pegW, 0, -1))
             return listJump[4] = true;
         return false;
     }
@@ -119,8 +145,9 @@ public class Board {
         return false;
     }
     public boolean exists(int h,  int h2, int w , int w2){
-        if((h + h2) >= 0 && (h + h2) <= HEIGHT){
-            if((w + w2) >= 0 && (w+w2) <= WIDTH) {
+        if((h + h2) >= 0 && (h + h2) < HEIGHT){
+            if((w + w2) >= 0 && (w+w2) < WIDTH) {
+                //System.out.println((h+h2) + ", " + (w+w2));
                 return true;
             }
         }
@@ -132,5 +159,31 @@ public class Board {
                 return boardset[pegH+dH*2][pegW+dW*2] && empty[pegH+dH*2][pegW+dW*2];
         return false;
         }
+    public int pegsLeft(){
+        return pegsLeft;
+    }
+    @Override
+    public String toString(){
+        String PEGBOARD = "";
+        for(int row = 0; row < HEIGHT; row++)
+        {
+            PEGBOARD += repeat(' ', 4 - row);
+            for(int col = 0; col < WIDTH && (boardset[row][col]); col++){
+                if(empty[row][col])
+                    PEGBOARD += "* ";
+                else
+                    PEGBOARD += "o ";
+            }
+            PEGBOARD += repeat(' ', 4 - row);
+            PEGBOARD += "\n";
+        }
+        return PEGBOARD;
+    }
 
+    private String repeat(char x, int n){
+        if(n < 0){
+            return "";
+        }
+        return x + repeat(x, n-1);
+    }
 }

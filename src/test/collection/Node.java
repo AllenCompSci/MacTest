@@ -20,12 +20,10 @@ public class Node{
     public int getY(){
         return (int)position.getY();
     }
-    @Override
     public boolean equals(Node node){
         return false;
     }
 
-    @Override
     public int compareTo(Object o) {
         return 0;
     }
