@@ -179,7 +179,13 @@ public class Board {
         }
         return PEGBOARD;
     }
-
+    public boolean compareBoard(boolean[][] empty2){
+        for(int i = 0; i < HEIGHT; i ++)
+            for(int j = 0; j < WIDTH; j++)
+                if(empty[i][j] != empty2[i][j])
+                    return false;
+        return true;
+    }
     private String repeat(char x, int n){
         if(n < 0){
             return "";

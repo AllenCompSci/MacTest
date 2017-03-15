@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d80667e-c53c-4eea-b8bb-7eab9dd41629" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/collection/Board.java" afterPath="$PROJECT_DIR$/src/test/collection/Board.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/collection/Node.java" afterPath="$PROJECT_DIR$/src/test/collection/Node.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/collection/Game.java" afterPath="$PROJECT_DIR$/src/test/collection/Game.java" />
     </list>
     <ignored path="MacTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,10 +28,11 @@
       <file leaf-file-name="Board.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/collection/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="87" column="10" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
+            <state relative-caret-position="428">
+              <caret line="181" column="13" selection-start-line="181" selection-start-column="13" selection-end-line="181" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#compareBoard#0;class#Board#0" expanded="false" />
                 <element signature="method#repeat#0;class#Board#0" expanded="false" />
               </folding>
             </state>
@@ -42,8 +42,8 @@
       <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/collection/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+            <state relative-caret-position="689">
+              <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -700,16 +700,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489499948947</updated>
-      <workItem from="1489499960261" duration="13298000" />
+      <workItem from="1489499960261" duration="17704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13298000" />
+    <option name="totallyTimeSpent" value="17704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -806,10 +806,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/collection/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="87" column="10" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
+        <state relative-caret-position="428">
+          <caret line="181" column="13" selection-start-line="181" selection-start-column="13" selection-end-line="181" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#compareBoard#0;class#Board#0" expanded="false" />
             <element signature="method#repeat#0;class#Board#0" expanded="false" />
           </folding>
         </state>
@@ -817,8 +818,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/collection/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        <state relative-caret-position="689">
+          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
           <folding />
         </state>
       </provider>
