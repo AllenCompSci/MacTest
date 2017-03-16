@@ -181,8 +181,15 @@ public class Board {
     }
     public boolean compareBoard(boolean[][] empty2){
         for(int i = 0; i < HEIGHT; i ++)
-            for(int j = 0; j < WIDTH; j++)
+            for(int j = 0; j <= Game.triangle[i]; j++)
                 if(empty[i][j] != empty2[i][j])
+                   return mirror(empty2);
+        return true;
+    }
+    public boolean mirror(boolean[][]empty2){
+        for(int i = 0; i < HEIGHT; i ++)
+            for(int j = 0; j <= Game.triangle[i]; j++)
+                if(empty[i][j] != empty2[i][Game.triangle[i]-j])
                     return false;
         return true;
     }

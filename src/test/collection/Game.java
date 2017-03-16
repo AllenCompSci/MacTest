@@ -20,13 +20,21 @@ public class Game {
     static int pegY [] = {0,0,1,0,1,2,0,1,2,3,0,1,2,3,4};
     static int jumpX [] = {-2,0,2,2,0,-2};
     static int jumpY [] = {0,2,2,0,-2,-2};
+    static int triangle[] = {0,1,2,3,4};
     public Game(){
         solution = new ArrayList<>();
-        for(int i = 0; i < 5; i++)
-            if(i != 2)
+        int NUMSOLUTIONS = 0;
+        for(int i = 0; i < 5; i++) {
+            if (i != 2){
                 solution.add(new Paths(new Board(pegX[i], pegY[i])));
-        runSol();
-        System.out.println(solution);
+                runSol();
+                System.out.println("Solutions for removal of Peg " + i + " : ");
+                System.out.println(solution);
+                NUMSOLUTIONS += solution.size();
+                solution.clear();
+            }
+        }
+        System.out.println("Total Number of Solutions : " + NUMSOLUTIONS);
     }
 
     public void runSol(){
@@ -79,8 +87,7 @@ public class Game {
                 }
             }
         }while (update);
-        System.out.println(solution);
-        System.out.println(solution.size());
+
     }
 
 
